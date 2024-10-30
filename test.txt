@@ -17,3 +17,5 @@ this was added 12:35 AM
 我还在尝试版本控制。
 
 这是新的版本控制。
+
+什么是 detached HEAD？
